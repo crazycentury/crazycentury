@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @crazycentury
-- 👀 I’m interested in Backend Developer
-- 🌱 I’m currently learning .NET
+- 👀 I’m interested in Fullstack Developer 
+- 🌱 I’m currently learning .NET and React
 - 💞️ I’m looking to collaborate on riil project
 - 📫 How to reach me https://www.linkedin.com/in/iqbalmuflihuddin/
 
